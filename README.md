@@ -1,5 +1,5 @@
 # Project-DataScience
-# Analisis Sentimen Ulasan Produk E-Commerce Menggunakan Klasifikasi
+# Klasifikasi Emosi Ulasan Produk
 
 ## Anggota Kelompok:
 1. Muhammad Aqbil Wildan Qinthara (123240045) - Kontribusi: ...
